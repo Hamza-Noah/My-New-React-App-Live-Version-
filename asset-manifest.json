@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/My-New-React-App-Live-Version-/static/css/main.cc1eb732.css",
+    "main.js": "/My-New-React-App-Live-Version-/static/js/main.55cd9f98.js",
+    "static/media/fa-solid-900.ttf": "/My-New-React-App-Live-Version-/static/media/fa-solid-900.79da213423ac0def2058.ttf",
+    "static/media/fa-brands-400.ttf": "/My-New-React-App-Live-Version-/static/media/fa-brands-400.0a1b701f5563c2288281.ttf",
+    "static/media/fa-solid-900.woff2": "/My-New-React-App-Live-Version-/static/media/fa-solid-900.4896d4b04430cc3dfb06.woff2",
+    "static/media/fa-brands-400.woff2": "/My-New-React-App-Live-Version-/static/media/fa-brands-400.f77bcc98bb7468c8b15a.woff2",
+    "static/media/fa-regular-400.ttf": "/My-New-React-App-Live-Version-/static/media/fa-regular-400.15d98c18221c8bcb2334.ttf",
+    "static/media/cabin.png": "/My-New-React-App-Live-Version-/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/My-New-React-App-Live-Version-/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/My-New-React-App-Live-Version-/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/submarine.png": "/My-New-React-App-Live-Version-/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/fa-regular-400.woff2": "/My-New-React-App-Live-Version-/static/media/fa-regular-400.d79c2ec96ab9ff1161a2.woff2",
+    "static/media/safe.png": "/My-New-React-App-Live-Version-/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/My-New-React-App-Live-Version-/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.png": "/My-New-React-App-Live-Version-/static/media/avataaars.897c5561e351949dee71.png",
+    "static/media/fa-v4compatibility.ttf": "/My-New-React-App-Live-Version-/static/media/fa-v4compatibility.52eba2c567c521b8d58a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/My-New-React-App-Live-Version-/static/media/fa-v4compatibility.3d503f89ccaf1b224aa5.woff2",
+    "index.html": "/My-New-React-App-Live-Version-/index.html",
+    "main.cc1eb732.css.map": "/My-New-React-App-Live-Version-/static/css/main.cc1eb732.css.map",
+    "main.55cd9f98.js.map": "/My-New-React-App-Live-Version-/static/js/main.55cd9f98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc1eb732.css",
+    "static/js/main.55cd9f98.js"
+  ]
+}
